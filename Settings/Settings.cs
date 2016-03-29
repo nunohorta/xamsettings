@@ -2,9 +2,9 @@
 
 namespace Settings
 {
-	public class MyClass
+	public class Settings
 	{
-		public MyClass ()
+		public Settings ()
 		{
 		}
 	}
