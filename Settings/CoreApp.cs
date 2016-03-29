@@ -8,6 +8,7 @@ namespace Settings
 	{
 		public App ()
 		{
+
 			// The root page of your application
 			MainPage = new ContentPage {
 				Content = new StackLayout {
@@ -20,6 +21,7 @@ namespace Settings
 					}
 				}
 			};
+
 		}
 
 		protected override void OnStart ()
